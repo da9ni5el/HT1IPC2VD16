@@ -30,6 +30,13 @@ namespace HT1IPC2VD16
             operacion = textBox1.Text + "+" + textBox2.Text;
             Console.WriteLine(operacion);
             Console.WriteLine(pt.post_fijo(operacion));
+            operacion = string.Empty;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            operacion = textBox1.Text + "-" + textBox2.Text;
+            Console.WriteLine(pt.post_fijo(operacion));
         }
     }
 }
