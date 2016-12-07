@@ -1,1 +1,10 @@
 c:\users\robert0\documents\visual studio 2015\Projects\HT1IPC2VD16\HT1IPC2VD16\bin\Debug\HT1IPC2VD16.exe.config
+C:\Users\Robert0\Documents\HT1IPC2VD16\HT1IPC2VD16\HT1IPC2VD16\bin\Debug\HT1IPC2VD16.exe.config
+C:\Users\Robert0\Documents\HT1IPC2VD16\HT1IPC2VD16\HT1IPC2VD16\bin\Debug\HT1IPC2VD16.exe
+C:\Users\Robert0\Documents\HT1IPC2VD16\HT1IPC2VD16\HT1IPC2VD16\bin\Debug\HT1IPC2VD16.pdb
+C:\Users\Robert0\Documents\HT1IPC2VD16\HT1IPC2VD16\HT1IPC2VD16\obj\Debug\HT1IPC2VD16.csprojResolveAssemblyReference.cache
+C:\Users\Robert0\Documents\HT1IPC2VD16\HT1IPC2VD16\HT1IPC2VD16\obj\Debug\HT1IPC2VD16.Form1.resources
+C:\Users\Robert0\Documents\HT1IPC2VD16\HT1IPC2VD16\HT1IPC2VD16\obj\Debug\HT1IPC2VD16.Properties.Resources.resources
+C:\Users\Robert0\Documents\HT1IPC2VD16\HT1IPC2VD16\HT1IPC2VD16\obj\Debug\HT1IPC2VD16.csproj.GenerateResource.Cache
+C:\Users\Robert0\Documents\HT1IPC2VD16\HT1IPC2VD16\HT1IPC2VD16\obj\Debug\HT1IPC2VD16.exe
+C:\Users\Robert0\Documents\HT1IPC2VD16\HT1IPC2VD16\HT1IPC2VD16\obj\Debug\HT1IPC2VD16.pdb
