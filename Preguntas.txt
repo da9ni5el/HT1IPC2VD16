@@ -1,0 +1,9 @@
+1. ¿Qué es commit?
+	Son los cambios que se le realizan al proyecto
+2. ¿Que es merge? 
+	Es la unión de las ramas, anteponiendo cietos commit ante los demas
+	haciendo que algunas modificaciones pierdan valor.
+3. ¿Que es pull? 
+	Obtiene la versión del proyecto que se solicite
+4. ¿Que es push? 
+	Guarda en el repositorio el conjunto de commits. 
